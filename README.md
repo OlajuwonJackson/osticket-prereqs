@@ -295,4 +295,4 @@ It should look something like this.</p>
 <p> File is located at C:\inetpub\wwwroot\osTicket\include\ost-config.php</p>
 <br>
 <br>
-<h1>Felicitations! &#127881; osTicket has been successfully installed!</h1>
+<h1> osTicket has been successfully installed!</h1>
