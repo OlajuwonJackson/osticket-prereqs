@@ -35,7 +35,7 @@ The first step to do is to create a virtual machine on Azure.
 Choose the image or base operating system as Windows 10 Pro, version 22H2.</p>
 <p>
 
-<img width="758" alt="2" src="https://imgur.com/3ujBJZA">
+<img width="758" alt="2" src="https://imgur.com/a/AfJun7w">
 
 <p>
 </p>
