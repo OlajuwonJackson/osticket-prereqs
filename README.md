@@ -35,7 +35,8 @@ The first step to do is to create a virtual machine on Azure.
 Choose the image or base operating system as Windows 10 Pro, version 22H2.</p>
 <p>
 
-<img width="758" alt="2" src="![image](https://github.com/user-attachments/assets/b87a2ad6-1422-4a8f-8fbe-2fa3dfe7bcf1)">
+![image](https://github.com/user-attachments/assets/310160fc-489d-4767-ae9e-068d6cefd28d)
+
 
 <p>
 </p>
@@ -44,7 +45,8 @@ Choose the image or base operating system as Windows 10 Pro, version 22H2.</p>
 And make sure that RDP (3389) is allowed in "Select inbound ports" in order to permit Remote Desktop access to the VM.</strong> </p>
 <p>
 
-<img width="757" alt="3" src="https://private-user-images.githubusercontent.com/163789590/313890077-82b2c67a-3b78-43c8-8980-8725923375ad.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1NjAyNDAsIm5iZiI6MTcyMDU1OTk0MCwicGF0aCI6Ii8xNjM3ODk1OTAvMzEzODkwMDc3LTgyYjJjNjdhLTNiNzgtNDNjOC04OTgwLTg3MjU5MjMzNzVhZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOVQyMTE5MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YjQ4NDIyZGZmMTE2Mjg4MDc2YzY5YjRlZjBlNzI2ZDdhNTc2M2VlYWMwYjFkY2JmOTMyNzgzOTNkNDdiMWE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bCTKUNG-P8p4EleBvci5uHC8kX6lMbdzk3REJRW9QUM">
+
+![image](https://github.com/user-attachments/assets/e6749a2a-07f3-4b24-b8f3-a8782c1f7eaa)
 
 
 
@@ -62,7 +64,8 @@ And make sure that RDP (3389) is allowed in "Select inbound ports" in order to p
 <h3>&#9314; Find your VM's public IP address</h3>
 <p></p>Permit some time for the deployment to complete then find the VM's public IP address and copy it.</p>
 <p>
-<img width="1009" alt="4" src="https://private-user-images.githubusercontent.com/163789590/313890216-941a738c-e208-4aac-a182-acfcec531367.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1NjAyNDAsIm5iZiI6MTcyMDU1OTk0MCwicGF0aCI6Ii8xNjM3ODk1OTAvMzEzODkwMjE2LTk0MWE3MzhjLWUyMDgtNGFhYy1hMTgyLWFjZmNlYzUzMTM2Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOVQyMTE5MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MzNjM2M5MTQxOTQ5MjkzNjg3NmI1N2RmMzVjOGU4MzRjMWRkM2ZlNzNhOTk5MTg3OTY3NDc4NDhjYTBlM2FjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.HhHqBlrXQm7bw3q7gVZymBcXgZaabHiyXQmOkeuTT4U">
+![image](https://github.com/user-attachments/assets/d7078cf0-8896-47a6-8e7e-764902a360d3)
+
 
 
 
@@ -71,7 +74,8 @@ And make sure that RDP (3389) is allowed in "Select inbound ports" in order to p
 <h3>&#9315; Connect to the VM using the Remote Desktop Connection program</h3>
 <p>Open your Remote Desktop Connection program and paste the VM's IP and login with the same login credentials used to create the VM.</p>
 <p>
-<img width="302" alt="5" src="https://private-user-images.githubusercontent.com/163789590/313890246-f285eec1-0d5c-4246-bd4f-04fb508f534e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1NjAyNDAsIm5iZiI6MTcyMDU1OTk0MCwicGF0aCI6Ii8xNjM3ODk1OTAvMzEzODkwMjQ2LWYyODVlZWMxLTBkNWMtNDI0Ni1iZDRmLTA0ZmI1MDhmNTM0ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOVQyMTE5MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYzEyMTZhN2FmYTg2N2JiNTYzNmZjNjM3ZTE5MmNkMmY3MDVkYzljNDdmZDg0NzVhNThiNDlmYTRmMDhmZDFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.RZrwh72fV4G7y8IMlyjwVVfg6Rgxgox7sxODk0xeI3s">
+![image](https://github.com/user-attachments/assets/b2a4be4c-9de1-4d69-a4c2-a0bdcc0801d2)
+
 
 
 
@@ -79,13 +83,15 @@ And make sure that RDP (3389) is allowed in "Select inbound ports" in order to p
 <br />
 <h3>&#9316; Enable IIS </h3>
 <p> Once the VM is open, the next step is to install / enable IIS. For that, the Control Panel needs to be accessed and the programs applet opened. Under programs, "Turn Windows features on or off" needs to be selected.</p>
-<p> <img width="552" alt="6" src="https://private-user-images.githubusercontent.com/163789590/313890306-adbf4223-9ff9-4101-a589-4ef0d8e7796b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1NjAyNDAsIm5iZiI6MTcyMDU1OTk0MCwicGF0aCI6Ii8xNjM3ODk1OTAvMzEzODkwMzA2LWFkYmY0MjIzLTlmZjktNDEwMS1hNTg5LTRlZjBkOGU3Nzk2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOVQyMTE5MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMDlkMDM3NzVkYzA0ZGM5ZGE0MDVlMTNhZGMyNjE5ZWQyOGE4YmU0ZmIyODZmZGNhMWU3NzZjZTk1MWRiYmYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kNNNFTEz7qryqcW_Brc6VoFUL6raI1fhHhoweH3AgQE">
+<p> ![image](https://github.com/user-attachments/assets/168f2178-87f2-420b-9a26-b74056b349b7)
+
 
 
   
 </p>
 <p>Then, enable and expand the following features:</p>
-<p><img width="295" alt="7" src="https://private-user-images.githubusercontent.com/163789590/313890741-26ceaf15-fffc-4fc9-a36c-cf93a237a6b0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1NjAyNDAsIm5iZiI6MTcyMDU1OTk0MCwicGF0aCI6Ii8xNjM3ODk1OTAvMzEzODkwNzQxLTI2Y2VhZjE1LWZmZmMtNGZjOS1hMzZjLWNmOTNhMjM3YTZiMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOVQyMTE5MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YjhjMzA1MTcyNmRlNDNjYmZjNjhiZTM3NTc2N2VmYjcwYzU0ZmJkM2U1YWY4ZTFjYWNiMTk0MzA2NzIwNjM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZDCQZKrQDQpLzUm3hYC3Q3qfFE9a6A008sB8MLL1yDE">
+<p> ![image](https://github.com/user-attachments/assets/4c5bd5b0-ec91-421a-ae2f-db27a0b22bcf)
+
 
 </p>
 
@@ -100,13 +106,14 @@ And make sure that RDP (3389) is allowed in "Select inbound ports" in order to p
 <p> Click okay and the features should be enabled.</p>
 <br>
 <p> <strong> NOTE: To quickly verify whether the changes were successfully configured, simply type 127.0.0.1 on a browser and the page below should appear. </strong></p>
-<img width="1094" alt="8" src="https://private-user-images.githubusercontent.com/163789590/313890806-31cc67ff-0588-4591-b084-16bf4dd457d1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1NjAyNDAsIm5iZiI6MTcyMDU1OTk0MCwicGF0aCI6Ii8xNjM3ODk1OTAvMzEzODkwODA2LTMxY2M2N2ZmLTA1ODgtNDU5MS1iMDg0LTE2YmY0ZGQ0NTdkMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOVQyMTE5MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNWMzZGUyNGFkNWEwMTRmZTg1ZWZjMDlhNmY2MjI0ODNiZjFkMWNmODRjOTE2ZWZlZmI0NzI2NTVlODBjYTU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.2VLyQD6bOlBOnVoE2cpPPGBtQvCZkm0KXFcI6vfPJtc">
+![image](https://github.com/user-attachments/assets/d2ccdb9b-e37d-4b5b-97ca-bf7fcf391331)
 
 <br> <br>
 <h3>&#9317; Download and Install PHP Manager</h3>
 <p> To download and install PHP manager, you can by accessing the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a>(PHPManagerForIIS_V1.5.0.msi) 
 </p> <br>
-<p><img width="386" alt="9" src="https://private-user-images.githubusercontent.com/163789590/313890900-62dddfb0-16f0-41ed-86f9-3995eb06dd7d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1NjAyNDAsIm5iZiI6MTcyMDU1OTk0MCwicGF0aCI6Ii8xNjM3ODk1OTAvMzEzODkwOTAwLTYyZGRkZmIwLTE2ZjAtNDFlZC04NmY5LTM5OTVlYjA2ZGQ3ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOVQyMTE5MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZGI2MThmMTc1NjU4Y2E3ZTI1OGVhNjQ0Njc1MGEwYzM3MWI4OTJhNjhiNzVmMDhlMThiOTgxZDNjOGY4M2EwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nPw1n_Za8sqXZe302cSBLmeVWda473yd_kCTxTUKfBU">
+<p> ![image](https://github.com/user-attachments/assets/37cf69d1-4c48-4e3a-a629-25b885556771)
+
 
 </p> 
 <br>
