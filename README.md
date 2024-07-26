@@ -35,7 +35,7 @@ The first step to do is to create a virtual machine on Azure.
 Choose the image or base operating system as Windows 10 Pro, version 22H2.</p>
 <p>
 
-<img width="758" alt="2" src="https://private-user-images.githubusercontent.com/163789590/313889980-23d9667e-c26e-4f88-9285-d448c63026f9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1NjAyNDAsIm5iZiI6MTcyMDU1OTk0MCwicGF0aCI6Ii8xNjM3ODk1OTAvMzEzODg5OTgwLTIzZDk2NjdlLWMyNmUtNGY4OC05Mjg1LWQ0NDhjNjMwMjZmOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOVQyMTE5MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNWZjMmNjMzQ3MzQwYTdkM2E2ZjczODFiMWNjY2JlZGUwMGUyMDg0OTkwZWQwMDc3MmViZWM4OTczMzc5YTRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QysO8HGhxnXapnHaHvLS0mx6RqfcRj4x-ZDFWMt8c8g">
+<img width="758" alt="2" src="https://imgur.com/3ujBJZA">
 
 <p>
 </p>
